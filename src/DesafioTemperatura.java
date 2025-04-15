@@ -10,5 +10,11 @@ public class DesafioTemperatura {
 
         int fahrenheitEnter = (int) fahrenheit ;
              System.out.println(" La temperatura en Fahrenheit entera es: " + fahrenheitEnter );
+
+
+        String prueba = ("mensaje de prueba 123 456 789 101112");
+        System.out.println(prueba );
+
     }
 }
+
